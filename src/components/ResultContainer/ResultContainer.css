@@ -1,0 +1,20 @@
+.result-container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 2rem 0;
+}
+
+.result-wrapper {
+    border-radius: 1rem;
+    padding: 2rem 1rem;
+    min-height: 54vh;
+    width: 80%;
+    background-color: white;
+    box-shadow: 0px 0px 3px rgb(0 0 0 / 25%);
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: .95rem;
+    row-gap: .95rem;
+    justify-content: center;
+}

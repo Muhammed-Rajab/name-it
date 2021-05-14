@@ -1,0 +1,27 @@
+.result-name-wrapper {
+    /* background-color: black; */
+    background: rgb(21, 26, 22);
+    display: block;
+    text-align: center;
+    height: fit-content;
+    width: 150px;
+    padding: 1rem 1rem;
+    border-radius: 10px;
+    box-shadow: inset 0 0 5px 10px #00000044;
+    transition: transform .2s;
+}
+
+.result-name-wrapper:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.opacity-anime {
+    transform: opacity .5s;
+}
+
+.name {
+    font-family: 'Handlee', cursive;
+    font-size: 1.1rem;
+    color: white;
+}

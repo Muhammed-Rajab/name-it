@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=La+Belle+Aurore&display=swap');
+.header {
+    padding-top: 4rem;
+    text-align: center;
+    color: white;
+}
+
+.header>span {
+    display: block;
+}
+
+.header-text {
+    font-family: 'Handlee', cursive;
+    font-size: 3.9rem;
+}
+
+.header-desc {
+    font-family: 'La Belle Aurore', cursive;
+}

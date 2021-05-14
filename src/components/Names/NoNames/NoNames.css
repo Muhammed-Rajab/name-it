@@ -1,0 +1,15 @@
+.NoNamesWrapper {
+    width: fit-content;
+    height: fit-content;
+    align-self: center;
+    text-align: center;
+    padding: .5rem;
+}
+
+.NoNames {
+    font-family: 'sans-serif';
+    font-size: 2rem;
+    font-weight: bolder;
+    color: #00000055;
+    font-family: 'Handlee', cursive;
+}
